@@ -3,6 +3,15 @@
 Kullanıcıların tarih ve konum seçtikten sonra uygun otobüs biletlerini listeleyebildikleri ve seçtiği otobüs içinde uygun koşullara göre koltuk satın alabildiği bir mobil uygulamadır.
 
 ## Ekran Görüntüleri
+<img width="375" height="816" alt="LaunchScreen" src="https://github.com/user-attachments/assets/6aa5e579-752a-437e-94de-1d8abb423779" />
+<img width="375" height="816" alt="İlk" src="https://github.com/user-attachments/assets/2139a58d-4c4d-4d10-8347-37d0fed8879d" />
+<img width="375" height="816" <img width="1206" height="2622" alt="otobüsListesi" src="https://github.com/user-attachments/assets/8f1064fd-e46d-4d30-a691-3b80db96be2a" />
+<img width="375" height="816" alt="KoltukSecimi" src="https://github.com/user-attachments/assets/9cb50db2-1290-4b60-ba8a-a77ac8b68f18" />
+<img width="375" height="816" alt="Odeme" src="https://github.com/user-attachments/assets/30d39cb1-90da-42d0-bfd7-b85009b87ce8" />
+<img width="375" height="816" alt="Odeme1" src="https://github.com/user-attachments/assets/c7e479a3-3a65-4cf8-bb14-1e4b3fa569fc" />
+<img width="375" height="816" alt="Uyruk" src="https://github.com/user-attachments/assets/f4e9a76a-ddfc-4b6c-af20-77fb65f13d8c" />
+<img width="375" height="816" alt="Simulator Screenshot - iPhone_16_Pro_18_6 - 2025-12-31 at 10 57 02" src="https://github.com/user-attachments/assets/5e9fe61a-c438-41ab-8ff3-27634a0d45c7" />
+<img width="375" height="816" alt="IslemTamam" src="https://github.com/user-attachments/assets/f904eaa7-e65b-40f7-90aa-592cad4121ae" />
 
 ## Özellikler
 
